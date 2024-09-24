@@ -64,12 +64,6 @@ Key insights derived from the analysis:
 - **Power Query**: For data cleaning and transformation.
 - **Excel**: As the data source for analysis.
 
-## How to View the Dashboard
-
-1. Download the Power BI `.pbix` file from this repository.
-2. Open it using **Power BI Desktop**.
-3. Explore the interactive dashboard and use the slicers to filter data by different dimensions.
-
 ## Conclusion
 
 This project provides a clear and interactive view of Blinkit's sales data, helping to understand key trends, distributions, and performance metrics. The dashboard allows users to dive into the data and filter across various dimensions to gain insights.
